@@ -6,7 +6,7 @@ module.exports = {
     'Github': `<a href="https://github.com/berylgithub">
                   <i class="fa-brands fa-github fact-icon"></i>berylgithub
                 </a>`,
-    'Linkedin': `<a href=" https://www.linkedin.com/in/beryl-ramadhian-aribowo"><i class="fa-brands fa-linkedin fact-icon"></i>Beryl R. Aribowo</a>`,
+    'LinkedIn': `<a href=" https://www.linkedin.com/in/beryl-ramadhian-aribowo"><i class="fa-brands fa-linkedin fact-icon"></i>Beryl R. Aribowo</a>`,
     'University personal page': `<a href=" https://mat.univie.ac.at/~baribowo"><i class="fa-solid fa-building-columns fact-icon"></i>baribowo</a>`,
     'Email': '<a href="mailto:berylramadhian@gmail.com"><i class="fa fa-envelope fact-icon"></i>berylramadhian@gmail.com</a>'
   },
@@ -27,25 +27,25 @@ module.exports = {
   educations: [
     {
       title: 'PhD in Mathematics',
-      period: 'December 2020 - present (estimated completion on December 2024)',
+      period: 'Dec 2020 - present (estimated completion on December 2024)',
       contents: 'University of Vienna - Vienna Graduate School of Computational Optimization (VGSCO) - Faculty of Mathematics, Vienna, Austria.',
       topic: `Machine learning for chemical data.`
     },
     {
       title: 'MSc in Computational Science (Double degree program)',
-      period: 'March 2019 - March 2020',
+      period: 'Mar 2019 - Mar 2020',
       contents: 'Kanazawa University (KU) - Graduate School of Natural Science and Technology - Division of Mathematical and Physical Sciences, Kanazawa, Japan.',
       topic: `Machine learning for molecular binding.`
     },
     {
       title: 'MSc in Computational Science (Double degree program)',
-      period: 'July 2018 - August 2020',
+      period: 'Jul 2018 - Aug 2020',
       contents: `Institut Teknologi Bandung (ITB) - Fakultas Matematika dan Ilmu Pengetahuan Alam, Bandung, Indonesia.`,
       topic: `Optimization for protein folding.`
     },
     {
       title: 'BSc in Informatics',
-      period: 'July 2012 - July 2016',
+      period: 'Jul 2012 - Jul 2016',
       contents: `Telkom University - Fakultas Informatika, Bandung, Indonesia.`,
       topic: `Reinforcement learning for traffic light control.`
     },
@@ -53,13 +53,13 @@ module.exports = {
   positions: [
     {
       title: 'Freelance Software Engineer',
-      period: 'January 2018 - August 2018',
+      period: 'Jan 2018 - Aug 2018',
       skills: ['Software engineering - frontend', 'Software engineering - backend', 'C#', 'Golang'],
       contents: `..`
     },
     {
       title: 'Machine Learning Engineer',
-      period: 'November 2016 - November 2017',
+      period: 'Nov 2016 - Nov 2017',
       skills: ['Applied machine learning', 'Software engineering - backend', 'Python', 'Java'],
       contents: `..`
     }

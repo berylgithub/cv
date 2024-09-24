@@ -55,7 +55,7 @@ module.exports = {
       title: 'Freelance Software Engineer',
       period: 'Jan 2018 - Aug 2018',
       skills: ['Software engineering - frontend', 'Software engineering - backend', 'C#', 'Golang'],
-      contents: `Software engineering for frontend UI and backend for research project.`,
+      contents: `(Labtek Indie, Bandung, Indonesia) Developed interactive frontend UI for government museum; (Institut Teknologi Bandung, Bandung, Indonesia) Developed backend for communication security research project.`,
       projects: ['(Labtek Indie, Bandung, Indonesia) Developed interactive UI/Frontend (Unity)', '(Institut Teknologi Bandung, Bandung, Indonesia) Developed backend software for network security research.']
     },
     {

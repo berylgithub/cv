@@ -74,10 +74,8 @@ module.exports = {
     {
       header: 'Internship',
       skills: ['Applied machine learning', 'Java'],
-      contents: `
-      Internship in GeekStudio, Cimahi (2015). 
-      Working in "Twitter account classification" project.
-      `
+      contents: `Internship in GeekStudio, Cimahi (2015). 
+      Working in "Twitter account classification" project.`
     }
   ]
 };

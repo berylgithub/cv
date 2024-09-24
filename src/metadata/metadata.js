@@ -55,26 +55,28 @@ module.exports = {
       title: 'Freelance Software Engineer',
       period: 'Jan 2018 - Aug 2018',
       skills: ['Software engineering - frontend', 'Software engineering - backend', 'C#', 'Golang'],
-      contents: `..`
+      contents: `Software engineering for frontend UI and backend for research project.`,
+      projects: ['(Labtek Indie, Bandung, Indonesia) Developed interactive UI/Frontend (Unity)', '(Institut Teknologi Bandung, Bandung, Indonesia) Developed backend software for network security research.']
     },
     {
       title: 'Machine Learning Engineer',
       period: 'Nov 2016 - Nov 2017',
       skills: ['Applied machine learning', 'Software engineering - backend', 'Python', 'Java'],
-      contents: `..`
+      contents: `(PT Ebdesk Teknologi, Bandung, Indonesia) Developed machine learning engines applied on various software.`,
+      projects: []
     }
   ],
   experience: [
     {
       header: 'Research stay',
       skills: ['Applied machine learning', 'High performance computing', 'Julia', 'Python'],
-      contents: `Research stay in the Department of Materials Science & Engineering, University of Toronto, Toronto, Canada (June 2023 - November 2023). 
+      contents: `Research stay in the Department of Materials Science & Engineering, University of Toronto, Toronto, Canada (June 2023 - November 2023). \n
       Working in "delta machine learning for quantum chemistry" project.`
     },
     {
       header: 'Internship',
       skills: ['Applied machine learning', 'Java'],
-      contents: `Internship in GeekStudio, Cimahi (2015). 
+      contents: `Internship in GeekStudio, Cimahi (2015). \n
       Working in "Twitter account classification" project.`
     }
   ]

@@ -29,25 +29,25 @@ module.exports = {
       title: 'PhD in Mathematics',
       period: 'Dec 2020 - present (estimated completion on December 2024)',
       contents: 'University of Vienna - Vienna Graduate School of Computational Optimization (VGSCO) - Faculty of Mathematics, Vienna, Austria.',
-      topic: `Machine learning for chemical data.`
+      topic: `Thesis topic: Machine learning for chemical data.`
     },
     {
       title: 'MSc in Computational Science (Double degree program)',
       period: 'Mar 2019 - Mar 2020',
       contents: 'Kanazawa University (KU) - Graduate School of Natural Science and Technology - Division of Mathematical and Physical Sciences, Kanazawa, Japan.',
-      topic: `Machine learning for molecular binding.`
+      topic: `Thesis topic: Machine learning for molecular binding.`
     },
     {
       title: 'MSc in Computational Science (Double degree program)',
       period: 'Jul 2018 - Aug 2020',
       contents: `Institut Teknologi Bandung (ITB) - Fakultas Matematika dan Ilmu Pengetahuan Alam, Bandung, Indonesia.`,
-      topic: `Optimization for protein folding.`
+      topic: `Thesis topic: Optimization for protein folding.`
     },
     {
       title: 'BSc in Informatics',
       period: 'Jul 2012 - Jul 2016',
       contents: `Telkom University - Fakultas Informatika, Bandung, Indonesia.`,
-      topic: `Reinforcement learning for traffic light control.`
+      topic: `Thesis topic: Reinforcement learning for traffic light control.`
     },
   ],
   positions: [
